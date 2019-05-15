@@ -1,0 +1,29 @@
+% ========================================================================
+% DM-C2IC, Version 1.0
+% Copyright(c) 2014 Yibang Ruan
+% All Rights Reserved.
+%
+% ----------------------------------------------------------------------
+% Permission to use, copy, or modify this software and its documentation
+% for educational and research purposes only and without fee is here
+% granted, provided that this copyright notice and the original authors'
+% names appear on all copies and supporting documentation. This program
+% shall not be used, rewritten, or adapted as the basis of any commercial
+% software or hardware product without first obtaining permission of the
+% authors. The authors make no representations about the suitability of
+% this software for any purpose. It is provided "as is" without express
+% or implied warranty.
+%----------------------------------------------------------------------
+
+
+Please refer to the following paper:
+
+Yibang Ruan, Yanshan Xiao, Zhifeng Hao, and Bo Liu, "A Convex Multi-Class Model via Distance Metric Learning based Class-to-Instance Confidence".
+
+1. The codes take the "glass" as an example. 
+2. Download the Liblinear Toolbox, complie it and addpath to the matlab workspace
+3. To test the DM-C2IC classifier, run demo.m
+
+Contact: ruanyibang@gmail.com
+
+If you find any bug, please contact me. Thank you!
