@@ -1,5 +1,5 @@
 % ========================================================================
-% DM-C2IC, Version 1.0
+% DMC2IC, Version 1.0
 % Copyright(c) 2019 Yibang Ruan
 % All Rights Reserved.
 %
@@ -15,10 +15,6 @@
 % or implied warranty.
 %----------------------------------------------------------------------
 
-
-Please refer to the following paper:
-
-Yibang Ruan, Yanshan Xiao, Zhifeng Hao, and Bo Liu, "A Convex Multi-Class Model via Distance Metric Learning based Class-to-Instance Confidence".
 
 1. The codes take the "glass" as an example. 
 2. Download the Liblinear Toolbox, complie it and addpath to the matlab workspace
